@@ -22,7 +22,7 @@ a distribution switch, and 5 PCs as seen in "Reference #1". After connecting all
 Reference #1:
 
 <div>
-<img src="(https://github.com/Nickwhittall/Enterprise-Network/blob/main/Screenshot%201%20Enterprise%20Network.png)" />
+<img src="https://github.com/Nickwhittall/Enterprise-Network/blob/main/Screenshot%201%20Enterprise%20Network.png" />
 </div>
 
 Gif #2:
