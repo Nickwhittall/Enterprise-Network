@@ -17,7 +17,7 @@ To design and implement a robust, scalable, and secure enterprise network that m
 Example below.
 
 Phase 1: This phase included building the first part of our network which consisted of 2 access switches, 
-a distribution switch, and 5 PCs as seen in "Reference #1". After connecting all necessary ports and inputting the proper IP addresses, I configured trunking on all switches for VLAN 10 (Sales) and VLAN 20 (Finance). The last part of this phase was configuring VLAN access ports on switch 0 & 1. In "Reference #2" it shows a ping from 
+a distribution switch, and 5 PCs as seen in "Reference #1". After connecting all necessary ports and inputting the proper IP addresses, I configured trunking on all switches for VLAN 10 (Sales) and VLAN 20 (Finance). The last part of this phase was configuring VLAN access ports on switch 0 & 1. In "Reference #2" it shows a ping across the network on VLAN 10 (Sales) from PC4 (192.168.10.102) to PC0 (192.168.10.101).
 
 Reference #1:
 
