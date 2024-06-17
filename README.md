@@ -30,3 +30,11 @@ Reference #2:
 <div>
 <img src="https://github.com/Nickwhittall/Enterprise-Network/blob/main/enterprisenetworkphase1.gif" />
 </div>
+
+Phase 2: Phase 2 included the addition of a core multilayer switch. This phase was used to enable IP routing on a MLS (Multilayer Switch). Step 1 & 2 of this phase included configuring VLANs & trunking on the MLS. Next the SVI (Switched Virtual Interface was configured to allow the switch to communicate with other devices in the VLAN, such as computers and servers, and route traffic between them. Deafult gateways were also added to each PC to allow them to correspond to the correct SVI. IP routing was then enabled and ethernet ports were added to VLANs. In "Reference 3" it shows that PC2 (192.168.10.100) which is on the Sales VLAN; is now able to communicate with PC3, (192.168.20.101) which is on the Finance VLAN. Essentially, devices in any part of the network, are now able to communicate to different sections of the Enterprise network.
+
+Reference #3:
+
+<div>
+<img src="https://github.com/Nickwhittall/Enterprise-Network/blob/main/enterprisenetworkphase2.gif" />
+</div>
